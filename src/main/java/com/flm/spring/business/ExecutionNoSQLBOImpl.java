@@ -43,7 +43,6 @@ public class ExecutionNoSQLBOImpl implements ExecutionBO {
 		int size = companyDailyPriceList.size();
 		for (int i=0; i<size; i++) {
 			this.companyDailyPriceDAO.create(companyDailyPriceList.get(i));
-			System.out.printf("Inserting company daily price %s/%s\n", i+1, size);
 		}
 		
 		Date endDate = new Date();
