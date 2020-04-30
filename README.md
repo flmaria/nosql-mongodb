@@ -16,7 +16,7 @@ After copying the project to your computer:
 
 * Install the MongoDB database on your computer and start its service;
 * Install the PostgreSQL database on your computer and start its service;
-* Change the settings for accessing the PostgreSQL database in the "/study-nosql-mongodb/src/main/resources/database.properties" file;
+* Change the settings for accessing the PostgreSQL database in the "/nosql-mongodb/src/main/resources/database.properties" file;
 
 # Technology used
 
@@ -29,7 +29,7 @@ After copying the project to your computer:
 
 # Expected result
 
-Run the "/study-nosql-mongodb/src/main/java/com/flm/Main.java" file.
+Run the "/nosql-mongodb/src/main/java/com/flm/Main.java" file.
 
 * Program should automatically create the tables used in PostgreSQL;
 * The program must insert historical stock price data individually into the PostgreSQL database and present the total transaction time;
