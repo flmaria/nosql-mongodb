@@ -1,4 +1,4 @@
-# study-nosql-mongodb
+# nosql-mongodb
 Tests using no-sql database with CRUD operations
 
 
