@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<spring.framework>5.2.4.RELEASE</spring.framework>
+		<spring.framework>5.2.22.RELEASE</spring.framework>
 		<postgres.version>42.2.11</postgres.version>
 	</properties>
 
