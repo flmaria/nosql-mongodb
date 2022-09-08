@@ -8,7 +8,7 @@
 
 	<properties>
 		<spring.framework>5.2.4.RELEASE</spring.framework>
-		<postgres.version>42.2.11</postgres.version>
+		<postgres.version>42.4.1</postgres.version>
 	</properties>
 
 	<dependencies>
